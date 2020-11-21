@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-id="Chile - Canal 13" tvg-name="CHILE | Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="Chile",CHILE | Canal 13
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/2236.m3u8
+#EXTINF:-1 tvg-id="Chile - Canal 13" tvg-name="CHILE | Canal 13 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/13hd.png" group-title="Chile",CHILE | Canal 13 HD
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/2242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chile | Canal 13 HD (E)" tvg-logo="https://spotlight.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F72%2F6726493_33743DEAD3FC7032.png&height=50&resize=RATIO&format=PNG" group-title="Chile",Chile | Canal 13 HD (E)
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/20417.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-9koNjDb9IDM/XcsQ5aBgsGI/AAAAAAAAA08/zLihKJMYMGEva9FFypcgSzD1sBPSNXbCgCLcBGAsYHQ/s200/the%2Bsimpsons.png" group-title="24/7 VIP (Lat)",24/7 VIP | Los Simpsons S01 a S20 (e)(720)
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30  (e)(720)" tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png" group-title="24/7 VIP (Lat)",24/7 VIP | Los Simpsons S20 a S30  (e)(720)
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29041.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Premium SD | BBC World News" tvg-logo="https://i.pinimg.com/originals/d9/aa/15/d9aa159b8be12202613494d3640ebcf9.jpg" group-title="Entretenimiento SD / Premium (Lat)",Premium SD | BBC World News
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/3186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium SD | CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="Entretenimiento SD / Premium (Lat)",Premium SD | CNN en Español
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/3183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premium SD | CNN Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_de_CNN_en_Espa%C3%B1ol.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol.svg.png" group-title="Entretenimiento SD / Premium (Lat)",Premium SD | CNN Internacional
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/3184.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Malcolm in the Middle (e)(720)" tvg-logo="https://1.bp.blogspot.com/-odJlX1hGdQg/Xj2GPrvK-lI/AAAAAAAABFw/paCmPfpVMuQamOZZJu-opunknyq1Y0eNQCLcBGAsYHQ/s200/Malcolm%2Bin%2Bthe%2BMiddle.png" group-title="24/7 VIP (Lat)",24/7 VIP | Malcolm in the Middle (e)(720)
@@ -10,10 +28,7 @@ http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29112.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Tom and Jerry The Classic  (e)" tvg-logo="https://1.bp.blogspot.com/-ZguhiFc5J5U/Xj4wCHI0RjI/AAAAAAAABQQ/NobtNB6bWDEneCyA_gtnp_YMiwttk_h_QCLcBGAsYHQ/s200/Tom%2By%2BJerry.png" group-title="24/7 VIP (Lat)",24/7 VIP | Tom and Jerry The Classic  (e)
 http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Tropa Goofy (e)" tvg-logo="https://1.bp.blogspot.com/-sMP3nqyo2Vw/XsjgK5uvpmI/AAAAAAAAAFw/IiiQPr3k00QwIumq65yLc1If4R20sAquACK4BGAsYHg/goofy.png" group-title="24/7 VIP (Lat)",24/7 VIP | Tropa Goofy (e)
-http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Un Show Mas (e)(720)" tvg-logo="https://1.bp.blogspot.com/-Flh55IThxTg/Xt6BM6NHjsI/AAAAAAAAAfY/1KnIDuGiAbsq_fr3LM73jg92Z85L6vFpQCK4BGAsYHg/s320/unshowmas.png" group-title="24/7 VIP (Lat)",24/7 VIP | Un Show Mas (e)(720)
-http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/29116.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Avengers (ES)" tvg-logo="https://www.nme.com/wp-content/uploads/2019/04/Payoff_1-Sht_Online_v6_Domestic_Sm-1-e1552570783683-696x477.jpg" group-title="24/7 - Español",24/7 | The Avengers (ES)
 http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/4376.m3u8
@@ -24,3 +39,12 @@ http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/4418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TBBT_logo.svg/828px-TBBT_logo.svg.png" group-title="24/7 - English",24/7 | The Big Bang Theory SD
 http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/4585.m3u8
 
+#EXTINF:-1 tvg-id="Chile - 24 Horas" tvg-name="CHILE | 24 Horas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="Chile",CHILE | 24 Horas HD
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/2251.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI NEWS  | 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="Actualidad / News",CHI NEWS  | 24 Horas
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/15871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI NEWS  | CNN Chile (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Actualidad / News",CHI NEWS  | CNN Chile (B)
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/15869.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHI News | 24 Horas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/24_Horas_TVN_corto.png" group-title="Actualidad / News",CHI News | 24 Horas HD
+http://anubistv.online:8000/live/TV7620KA/0Ob82G65OB/15870.m3u8
